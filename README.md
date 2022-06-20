@@ -11,6 +11,8 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-B8BD16?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  
+    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-43940d?style=flat-square&logo=vue.js&logoColor=white" /> 
+   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-8E8D8D?style=flat-square&logo=express&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
     <img alt="Dotnet" src="https://img.shields.io/badge/-Dotnet-B7178C?style=flat-square&logo=dotnet&logoColor=white" />
