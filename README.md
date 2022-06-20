@@ -20,6 +20,7 @@
   <img alt="Binance Smart Chain" src="https://img.shields.io/badge/-Binance Smart Chain-9DA610?style=flat-square&logo=binance&logoColor=white" />
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-BD2222?style=flat-square&logo=solidity&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-4B73B4?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-BD1834?style=flat-square&logo=ubuntu&logoColor=white" />
   </p>
 </p>
