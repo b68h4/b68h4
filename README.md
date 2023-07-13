@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://dexlegion.com" target="blank">
-    <img style="height: 350px;width: 350px;" title="Dexlegion" src="dexlegion-logo-with-bg-se-min.jpeg"></img>
+    <img style="height: 200px;width: 200px;" title="Dexlegion" src="dexlegion-logo-with-bg-se-min.jpeg"></img>
   </a>
-  <h2 align="center">I'm the co-founder of <a href="https://dexlegion.com/">Dexlegion Software Inc.</a></h1>
+  <h3 align="center">I'm the co-founder of <a href="https://dexlegion.com/">Dexlegion Software Inc.</a></h1>
 </p>
 
 <p align="center">
