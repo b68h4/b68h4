@@ -1,6 +1,6 @@
 <div align="center">
     <h3>Hi there 👋</h3>
-    <h4>I'm a full-stack developer. You can check my know-how here or contact me from social media profiles</h4>
+    <h4>I'm a full-stack software developer. You can check my know-how here or contact me from social media profiles</h4>
 </div>
 <hr />
 
