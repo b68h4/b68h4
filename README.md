@@ -54,11 +54,9 @@
                     src="https://github-readme-streak-stats.herokuapp.com/?user=b68h4&layout=compact&theme=dark&hide_border=true&mode=weekly&card_width=450&card_height=190"
                 />
             </p>
-        </div>
-        <div class="column">
             <p align="center">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/wakatime?username=basardev&theme=dark&layout=compact&langs_count=14&hide=liquid,markdown,xml,php,actionscript,yaml,toml,git config,html,text,tsconfig,groovy&hide_border=true"
+                    src="https://github-readme-stats.vercel.app/api/wakatime?username=basardev&theme=dark&layout=compact&langs_count=14&hide=liquid,markdown,xml,php,actionscript,yaml,toml,git+config,html,text,tsconfig,groovy&hide_border=true"
                 />
             </p>
         </div>
