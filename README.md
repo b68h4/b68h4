@@ -1,11 +1,11 @@
 <div align="center">
     <h3>Hi there 👋</h3>
-    <h4>I'm a full-stack software developer. You can check my know-how here or contact me from social media profiles</h4>
+    <h4>I'm a full-stack software developer. You can check out my skills here or contact me via social media</h4>
 </div>
 <hr />
 
 <div align="center">
-    <h3 align="center">⚙️ My skills:</h3>
+    <h3 align="center">⚙️ Skills:</h3>
     <div class="row">
         <div class="column">
             <p align="center">
@@ -41,7 +41,7 @@
 </div>
 <hr />
 <div>
-    <h3 align="center">⏳ My stats:</h3>
+    <h3 align="center">⏳ Stats:</h3>
     <div class="row">
         <div class="column">
             <p align="center">
@@ -64,7 +64,7 @@
 </div>
 <hr />
 <div>
-    <h3 align="center">💬 My profiles:</h3>
+    <h3 align="center">💬 Contact me:</h3>
     <p align="center">
         <a href="https://t.me/b68h4"><img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/b68h4/"
