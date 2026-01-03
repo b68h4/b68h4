@@ -46,7 +46,7 @@
         <div class="column">
             <p align="center">
                 <img
-                    src="https://github-readme-stats-gules-two-54.vercel.app/api/top-langs/?username=b68h4&exclude_repo=tddroid&hide=html,css,dockerfile&langs_count=10&layout=compact&theme=dark&hide_border=true"
+                    src="https://github-readme-stats-gules-two-54.vercel.app/api/top-langs/?username=b68h4&exclude_repo=tddroid,github-readme-stats,github-readme-streak-stats,droidGPT,react-native-chatgpt-api&hide=html,css,dockerfile,batchfile,makefile,shell&langs_count=10&layout=compact&theme=dark&hide_border=true"
                 />
             </p>
             <p align="center">
