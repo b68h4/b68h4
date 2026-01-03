@@ -46,17 +46,17 @@
         <div class="column">
             <p align="center">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=b68h4&exclude_repo=tddroid&hide=html,css,dockerfile&langs_count=10&layout=compact&theme=dark&hide_border=true"
+                    src="https://github-readme-stats-gules-two-54.vercel.app/api/top-langs/?username=b68h4&exclude_repo=tddroid&hide=html,css,dockerfile&langs_count=10&layout=compact&theme=dark&hide_border=true"
                 />
             </p>
             <p align="center">
                 <img
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=b68h4&layout=compact&theme=dark&hide_border=true&mode=weekly&card_width=450&card_height=190"
+                    src="https://github-readme-streak-stats-orcin-tau.vercel.app?user=b68h4&layout=compact&theme=dark&hide_border=true&mode=weekly&card_width=450&card_height=190"
                 />
             </p>
             <p align="center">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/wakatime?username=basardev&theme=dark&layout=compact&langs_count=14&hide=liquid,markdown,xml,php,actionscript,yaml,toml,git+config,html,text,tsconfig,groovy&hide_border=true"
+                    src="https://github-readme-stats-gules-two-54.vercel.app/api/wakatime?username=basardev&theme=dark&layout=compact&langs_count=14&hide=liquid,markdown,xml,php,actionscript,yaml,toml,git+config,html,text,tsconfig,groovy&hide_border=true"
                 />
             </p>
         </div>
@@ -66,14 +66,11 @@
 <div>
     <h3 align="center">💬 Contact me:</h3>
     <p align="center">
-        <a href="https://t.me/b68h4"><img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+        <a href="https://t.me/basardev"><img src="https://img.shields.io/badge/Telegram-blue.svg?style=for-the-badge&logo=telegram&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/b68h4/"
-            ><img src="https://img.shields.io/badge/Linkedin-305075.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+            ><img src="https://img.shields.io/badge/Linkedin-305075.svg?style=for-the-badge&logo=inspire&logoColor=white"
         /></a>
-        <a href="https://twitter.com/b68h4"><img src="https://img.shields.io/badge/Twitter-3f3d80.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-        <a href="https://instagram.com/b68h4"
-            ><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"
-        /></a>
+        <a href="https://x.com/basardev"><img src="https://img.shields.io/badge/Twitter-3f3d80.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
     </p>
     <hr />
     <p align="center">
